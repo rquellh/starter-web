@@ -21,3 +21,7 @@ I hope there is a payoff for this
 More and more text
 
 Even more text
+
+## Copyright
+
+2014 Git.Training.
