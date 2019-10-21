@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ryan Quellhort  Senior Consultant  @ryanquellhorst
 
 # THANKS
 
