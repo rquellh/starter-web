@@ -25,3 +25,7 @@ Even more text
 ## Copyright
 
 2014 Git.Training.
+
+## How to Contribute
+
+Please fork this repo and then issue pull request for review
